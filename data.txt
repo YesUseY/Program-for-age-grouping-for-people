@@ -1,0 +1,4 @@
+3
+petras    1900
+jonas     1950
+ona ana   1980
